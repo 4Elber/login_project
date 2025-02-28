@@ -82,6 +82,14 @@ body {
     text-decoration: underline;
 }
 
+.remember-forgot label a:hover{
+    text-decoration: none;
+}
+
+#or{
+    font-size: 15px;
+}
+
 .login{
     width: 100%;
     height: 50px;
